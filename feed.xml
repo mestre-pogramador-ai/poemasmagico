@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>StaticForge</title>
+        <link>https://mestre-pogramador-ai.github.io/poemasmagico</link>
+        <atom:link href="https://mestre-pogramador-ai.github.io/poemasmagico/feed.xml" rel="self" type="application/rss+xml"/>
+        <description>Site gerado com StaticForge</description>
+        <language>pt-BR</language>
+        <lastBuildDate>Sun, 12 Jul 2026 01:31:21 +0000</lastBuildDate>
+        
+    <item>
+        <title>yerg</title>
+        <link>https://mestre-pogramador-ai.github.io/poemasmagico/posts/yerg.html</link>
+        <guid>https://mestre-pogramador-ai.github.io/poemasmagico/posts/yerg.html</guid>
+        <description>vvvvv</description>
+        <pubDate>Sun, 12 Jul 2026 01:31:21 +0000</pubDate>
+        <category>Sem categoria</category>
+    </item>
+    <item>
+        <title>teste</title>
+        <link>https://mestre-pogramador-ai.github.io/poemasmagico/posts/teste.html</link>
+        <guid>https://mestre-pogramador-ai.github.io/poemasmagico/posts/teste.html</guid>
+        <description></description>
+        <pubDate>Sun, 12 Jul 2026 01:31:21 +0000</pubDate>
+        <category>Sem categoria</category>
+    </item>
+    </channel>
+</rss>
